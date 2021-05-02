@@ -29,7 +29,7 @@ function countdown() {
 
     total_seconds = Math.floor(total_seconds);
 
-    console.log(years, months, days, hours, mins, total_seconds);
+    // console.log(years, months, days, hours, mins, total_seconds);
 
     years_elem.innerHTML = years;
     months_elem.innerHTML = months;
